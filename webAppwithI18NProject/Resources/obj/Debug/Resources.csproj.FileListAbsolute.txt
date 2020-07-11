@@ -1,0 +1,14 @@
+F:\asp.net web application with internationalization\webAppwithI18NProject\Resources\bin\Debug\Resources.dll
+F:\asp.net web application with internationalization\webAppwithI18NProject\Resources\bin\Debug\Resources.pdb
+F:\asp.net web application with internationalization\webAppwithI18NProject\Resources\bin\Debug\ar\Resources.resources.dll
+F:\asp.net web application with internationalization\webAppwithI18NProject\Resources\bin\Debug\es\Resources.resources.dll
+F:\asp.net web application with internationalization\webAppwithI18NProject\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+F:\asp.net web application with internationalization\webAppwithI18NProject\Resources\obj\Debug\Resources.Resources.resources
+F:\asp.net web application with internationalization\webAppwithI18NProject\Resources\obj\Debug\Resources.Resources.ar.resources
+F:\asp.net web application with internationalization\webAppwithI18NProject\Resources\obj\Debug\Resources.Resources.es.resources
+F:\asp.net web application with internationalization\webAppwithI18NProject\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+F:\asp.net web application with internationalization\webAppwithI18NProject\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+F:\asp.net web application with internationalization\webAppwithI18NProject\Resources\obj\Debug\ar\Resources.resources.dll
+F:\asp.net web application with internationalization\webAppwithI18NProject\Resources\obj\Debug\es\Resources.resources.dll
+F:\asp.net web application with internationalization\webAppwithI18NProject\Resources\obj\Debug\Resources.dll
+F:\asp.net web application with internationalization\webAppwithI18NProject\Resources\obj\Debug\Resources.pdb
